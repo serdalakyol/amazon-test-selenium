@@ -1,0 +1,11 @@
+Bu Projemde Selenium ve JUnit ile Amazon.com üzerinde bir proje gerçekleştirim
+Test Senaryosu şu şekilde ;
+
+1-Kullanıcı Amazon.com Adresine Gider
+2-Giriş Yap Tuşuna Basar
+3-Doldurulması Gereken E-mail ve Şifre Alanlarını doldurur ve giriş yapar
+4-Yeni açılan site arayüzünde arama butonuna tıklar
+5-Apple Watch 7 Araması gerçekleştirir
+6-Açılan yeni sayfada ilgili ürünün üzerine tıklar
+7-Ardından açılan sayfada ürünü sepete ekler
+8-Sepete eklediği ürünü görüntülemesi için sepete git tuşuna tılar ve sepete gider
